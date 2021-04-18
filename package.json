@@ -28,7 +28,7 @@
     "npm": "7.10.0",
     "react-router-dom":"^17.0.2"
   },
-  "browserslist": {
+  "browserslist": { 
     "production": [
       ">0.2%",
       "not dead",
